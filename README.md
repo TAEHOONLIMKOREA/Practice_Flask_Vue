@@ -12,7 +12,6 @@
 # backend
 
 ## python flask web framework
-<hr/>
 
 ### vscode에서 python 실행환경 구성
 #### 가상환경 설정
@@ -29,6 +28,7 @@
 ![image](https://github.com/TAEHOONLIMKOREA/Practice_Flask_Vue/assets/87262811/a3df9935-ce23-48e2-ba1b-c6e50244f56f)
 
 <hr/>
+
 # frontend
 
 ###  vscode에서 vue 개발환경 구성:
