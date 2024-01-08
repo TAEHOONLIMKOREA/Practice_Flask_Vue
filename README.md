@@ -1,3 +1,16 @@
+# backend
+
+## python flask web framework
+<hr/>
+### vscode에서 가상환경 설정
+- 터미널 창 실행 <br/>
+- python -m venv venv <br/>
+
+
+
+
+
+
 # frontend
 
 ## Project setup
