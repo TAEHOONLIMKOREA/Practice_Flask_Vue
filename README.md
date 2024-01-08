@@ -1,12 +1,10 @@
 
-<div class=pull-left>
-![image](https://github.com/TAEHOONLIMKOREA/Practice_Flask_Vue/assets/87262811/8f4f5459-c9c4-4593-a33b-2bbb7731e9d8)
-</div>
-<div class=pull-right>
-안녕하세요~~스티미언 여러분!<br>오늘은 [마크다운]따라잡기 이미지와 문자정렬을 자유자재로 우측과 좌측 선택해서 할수있는 명령어를 익혀보겠습니다.
-참고 : 한칸띄우고 아래명령어를 입력합니다.
-</div>
 
+![image](https://github.com/TAEHOONLIMKOREA/Practice_Flask_Vue/assets/87262811/8f4f5459-c9c4-4593-a33b-2bbb7731e9d8)
+### 프로젝트 구성
+- 먼저 프로젝트명으로 폴더를 만든 후 하위에 frontend와 backend 폴더 구성을 해주어야한다.<br/>
+- frontend 폴더는 vue/cli를 이용하여 프로젝트를 생성해 줄 때 만들면 됨 <br/>
+  (ex. vue create frontend)
 
 
 # backend
