@@ -74,7 +74,9 @@ npm run lint
 - 설치할 때는 pip install -r requirements.txt 명령어를 이용하면 됨
 
 # frontend와 backend 연동
-
+- 기존의 vue 사용법 바로 npm run serve 명령어를 이용해 개발 서버를 실행시키는 것이 아님
+- npm run build 명령어를 이용하여 vue형식의 파일을 html, js, css 파일로 변환 시켜서 flask에서 사용해야함
+  
 ## Edit frontend/vue.config.js
 ![image](https://github.com/TAEHOONLIMKOREA/Practice_Flask_Vue/assets/87262811/c8102962-cb6b-4dcc-996e-bbe6001d8726)
 
