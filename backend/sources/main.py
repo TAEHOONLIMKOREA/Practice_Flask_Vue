@@ -1,11 +1,9 @@
 from flask import Flask, render_template
 from flask import url_for, session, request, redirect
-from flask_sqlalchemy import SQLAlchemy
 from datetime import datetime
 from flask_cors import CORS
 
 app = Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URL_URI'] = 'postgresql://keti_superuser:madcoder@keties.iptime.org:55432/data_3dsystems'
 # db = SQLAlchemy(app)
 CORS(app)
 
