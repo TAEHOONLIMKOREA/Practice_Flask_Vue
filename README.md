@@ -1,3 +1,14 @@
+
+<div class=pull-left>
+![image](https://github.com/TAEHOONLIMKOREA/Practice_Flask_Vue/assets/87262811/8f4f5459-c9c4-4593-a33b-2bbb7731e9d8)
+</div>
+<div class=pull-right>
+안녕하세요~~스티미언 여러분!<br>오늘은 [마크다운]따라잡기 이미지와 문자정렬을 자유자재로 우측과 좌측 선택해서 할수있는 명령어를 익혀보겠습니다.
+참고 : 한칸띄우고 아래명령어를 입력합니다.
+</div>
+
+
+
 # backend
 
 ## python flask web framework
@@ -16,8 +27,6 @@
 
 - 이후 기존에 열려있던 터미널 창을 닫고, 다시 터미널 창을 열어준다 (Ctrl + Shift + `)
 ![image](https://github.com/TAEHOONLIMKOREA/Practice_Flask_Vue/assets/87262811/a3df9935-ce23-48e2-ba1b-c6e50244f56f)
-
-
 
 
 # frontend
