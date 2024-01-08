@@ -1,4 +1,4 @@
-
+![image](https://github.com/TAEHOONLIMKOREA/Practice_Flask_Vue/assets/87262811/bda548d3-36b4-4185-a400-808ce2fd7da3)
 # 프로젝트 구성
 - 먼저 프로젝트명으로 폴더를 만든 후 하위에 frontend와 backend 폴더 구성을 해주어야한다.<br/>
 - frontend 폴더는 vue/cli를 이용하여 프로젝트를 생성해 줄 때 만들면 됨 <br/>
@@ -45,8 +45,7 @@ Visual Studio Code<br/>
  - vue create "프로젝트명" <br/>
  - npm run serve (개발 서버 실행)<br/>
 
-
-## Project setup
+ ## Project setup
 ```
 npm install
 ```
@@ -66,5 +65,28 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# 기타 추가 사항
+#### git
+- vue를 통해 프로젝트를 생성하면 gitignore가 forntend 폴더 안에 만들어진다. 이것을 .git 폴더가 존재하는 상위 폴더로 옮긴다<br/>
+- gitignore 에 (venv/, frontend/dist/) 를 추가한다<br/>
+#### pip
+- pip freeze > requirements.txt 를 이용하여 패키지 저장목록을 만들어 놓는다
+- 설치할 때는 pip install -r requirements.txt 명령어를 이용하면 됨
+
+# frontend와 backend 연동
+
+### Edit frontend/vue.config.js
+![image](https://github.com/TAEHOONLIMKOREA/Practice_Flask_Vue/assets/87262811/c8102962-cb6b-4dcc-996e-bbe6001d8726)
+
+### Frontend Build
+- cd frontend<br/>
+- npm run build<br/>
+
+### Edit backend/main.py
+![image](https://github.com/TAEHOONLIMKOREA/Practice_Flask_Vue/assets/87262811/8d4e36fd-968d-4f59-9dd9-1179cad347cc)
+
+### Execute & Access
+- cd backend<br/>
+- python main.py<br/>
+
+
