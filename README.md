@@ -75,17 +75,17 @@ npm run lint
 
 # frontend와 backend 연동
 
-### Edit frontend/vue.config.js
+## Edit frontend/vue.config.js
 ![image](https://github.com/TAEHOONLIMKOREA/Practice_Flask_Vue/assets/87262811/c8102962-cb6b-4dcc-996e-bbe6001d8726)
 
-### Frontend Build
+## Frontend Build
 - cd frontend<br/>
 - npm run build<br/>
 
-### Edit backend/main.py
+## Edit backend/main.py
 ![image](https://github.com/TAEHOONLIMKOREA/Practice_Flask_Vue/assets/87262811/8d4e36fd-968d-4f59-9dd9-1179cad347cc)
 
-### Execute & Access
+## Execute & Access
 - cd backend<br/>
 - python main.py<br/>
 
