@@ -1,11 +1,12 @@
 
-
-![image](https://github.com/TAEHOONLIMKOREA/Practice_Flask_Vue/assets/87262811/8f4f5459-c9c4-4593-a33b-2bbb7731e9d8)
-### 프로젝트 구성
+# 프로젝트 구성
 - 먼저 프로젝트명으로 폴더를 만든 후 하위에 frontend와 backend 폴더 구성을 해주어야한다.<br/>
 - frontend 폴더는 vue/cli를 이용하여 프로젝트를 생성해 줄 때 만들면 됨 <br/>
-  (ex. vue create frontend)
+  (ex. vue create frontend) <br/>
+- 이후 backend 폴더를 만들고 각 서비스 단의 세부 생성 과정은 아래 참고<br/>
 
+![image](https://github.com/TAEHOONLIMKOREA/Practice_Flask_Vue/assets/87262811/8f4f5459-c9c4-4593-a33b-2bbb7731e9d8)
+### 폴더 구조 예시 사진 
 
 # backend
 
